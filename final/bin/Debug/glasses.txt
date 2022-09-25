@@ -1,0 +1,20 @@
+1000,rayban,sunglass,10,500
+1001,ford,sunglass,3,700
+1002,rayban,eyeglass,44,305
+1003,tom ford,sunglass,22,777
+1004,boss,sunglass,15,900
+1005,ferrari,sunglass,21,1500
+1006,oakley,eyeglass,20,800
+1007,dolce,sunglass,40,2000
+1008,burberry,eyeglass,31,500
+1009,verace,sunglass,50,2200
+1010,prada,sunglass,11,1800
+1011,gucci,sunglass,8,1400
+1012,persol,sunglass,4,1300
+1013,armani,sunglass,16,1800
+1014, kors,sunglass,40,3000
+1015,tory ,sunglass,3,3300
+1016,polo,sunglass,17,1000
+1017,tiffany,sunglass,0,6000
+1018,monokel,sunglass,6,760
+1019,calvin,sunglass,2,2500
