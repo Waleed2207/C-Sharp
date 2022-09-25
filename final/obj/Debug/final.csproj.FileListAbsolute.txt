@@ -1,0 +1,32 @@
+C:\Users\u0_win207\Desktop\final\final\bin\Debug\final.exe.config
+C:\Users\u0_win207\Desktop\final\final\bin\Debug\final.exe
+C:\Users\u0_win207\Desktop\final\final\bin\Debug\final.pdb
+C:\Users\u0_win207\Desktop\final\final\obj\Debug\final.exe
+C:\Users\u0_win207\Desktop\final\final\obj\Debug\final.pdb
+C:\Users\codes\OneDrive\שולחן העבודה\final (1)\final\bin\Debug\final.exe.config
+C:\Users\codes\OneDrive\שולחן העבודה\final (1)\final\obj\Debug\final.exe
+C:\Users\codes\OneDrive\שולחן העבודה\final (1)\final\obj\Debug\final.pdb
+C:\Users\codes\OneDrive\שולחן העבודה\final (1)\final\bin\Debug\final.exe
+C:\Users\codes\OneDrive\שולחן העבודה\final (1)\final\bin\Debug\final.pdb
+C:\Users\codes\OneDrive\שולחן העבודה\final (1)\final\obj\Debug\final.csprojResolveAssemblyReference.cache
+C:\Users\w10\Desktop\ntharat\final\bin\Debug\final.exe.config
+C:\Users\w10\Desktop\ntharat\final\obj\Debug\final.exe
+C:\Users\w10\Desktop\ntharat\final\obj\Debug\final.pdb
+C:\Users\w10\Desktop\ntharat\final\bin\Debug\final.exe
+C:\Users\w10\Desktop\ntharat\final\bin\Debug\final.pdb
+C:\Users\w10\Desktop\ntharat\final\obj\Debug\final.csprojResolveAssemblyReference.cache
+C:\Users\click\Desktop\ntharat\final\bin\Debug\final.exe.config
+C:\Users\click\Desktop\ntharat\final\bin\Debug\final.exe
+C:\Users\click\Desktop\ntharat\final\bin\Debug\final.pdb
+C:\Users\click\Desktop\ntharat\final\obj\Debug\final.csprojAssemblyReference.cache
+C:\Users\click\Desktop\ntharat\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\click\Desktop\ntharat\final\obj\Debug\final.exe
+C:\Users\click\Desktop\ntharat\final\obj\Debug\final.pdb
+C:\Users\click\Downloads\سي شارب\ntharat\final\obj\Debug\final.csprojAssemblyReference.cache
+C:\Users\click\Downloads\سي شارب\ntharat\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\click\Downloads\سي شارب\ntharat\final\obj\Debug\final.exe
+C:\Users\click\Downloads\سي شارب\ntharat\final\obj\Debug\final.pdb
+C:\Users\click\Documents\עבודות הנדסאי תוכנה\c#\سي شارب\ntharat\final\obj\Debug\final.csprojAssemblyReference.cache
+C:\Users\click\Documents\עבודות הנדסאי תוכנה\c#\سي شارب\ntharat\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\click\Documents\עבודות הנדסאי תוכנה\c#\سي شارب\ntharat\final\obj\Debug\final.exe
+C:\Users\click\Documents\עבודות הנדסאי תוכנה\c#\سي شارب\ntharat\final\obj\Debug\final.pdb
